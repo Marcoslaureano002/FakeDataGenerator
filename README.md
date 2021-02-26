@@ -1,6 +1,8 @@
 # FakeDataGenerator
 This application generates 1000 user records with data: Firstname, Lastname, age, gender, username, address, email
 
+And 1000 sensors with data Date, Time, Outside Temperature, Outside Humidity,  Room Temperature, Room Humidity per user record
+
 To save as a JSON hover over the Generate menu > Generate_IOT> Save as JSON
 
 To save as a CSV hover over the Generate menu > Generate_IOT> Save as CSV
